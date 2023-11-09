@@ -7,4 +7,4 @@ Here are Competitive Programming Profiles:
 1. Competitive Programmer (2022 - Present)
 2. Codeforces - https://codeforces.com/profile/arnavwinner
 3. Codechef - https://www.codechef.com/users/arnavwinner
-4. Atcocer - https://atcoder.jp/users/arnavwinner
+4. Atcoder - https://atcoder.jp/users/arnavwinner
