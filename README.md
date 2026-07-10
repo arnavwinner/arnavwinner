@@ -1,10 +1,12 @@
 # arnavwinner
 
-IIT Bhilai - Computer Science and Engineering (Batch of 2025)
+Hi, I'm Arnav, software engineer at Visa Inc. I like solving problems and playing tactical games like Valorant and Chess.
 
-Here are Competitive Programming Profiles:
+Alma Mater: IIT Bhilai, CS Batch of 2025.
 
-1. Competitive Programmer (2022 - Present)
-2. Codeforces - https://codeforces.com/profile/arnavwinner
-3. Codechef - https://www.codechef.com/users/arnavwinner
-4. Atcoder - https://atcoder.jp/users/arnavwinner
+C++, Rust, Python is my forte. Love systems.
+
+Have done Competitive Programming previously:
+1. Codeforces - https://codeforces.com/profile/arnavwinner
+2. Codechef - https://www.codechef.com/users/arnavwinner
+3. Atcoder - https://atcoder.jp/users/arnavwinner
