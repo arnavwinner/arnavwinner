@@ -8,7 +8,7 @@ Alma Mater: IIT Bhilai, CS Batch of 2025.
 C++, Rust, Python is my forte. Love systems.
 
 ## What I do here
-I make random repos in random times to learn/flex something on X.
+I make some random repos
 
 ## Hobbies
 I like solving problems and playing tactical games like Valorant and Chess.
